@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">...climate | data | solutions...</h3>
+<h3 align="center">...climate | data | solutions | apps...</h3>
 
 <p align="left"> <a href="https://twitter.com/ryanfallard" target="blank"><img src="https://img.shields.io/twitter/follow/ryanfallard?logo=twitter&style=for-the-badge" alt="ryanfallard" /></a> 
 <a href="https://www.codewars.com/users/ryzeFullStack" target="blank"><img src="https://www.codewars.com/users/ryzeFullStack/badges/small" alt="ryanfallard" /></a> 
