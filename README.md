@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **A networking app**
+- 🔭 I’m currently working on **A networking app** and on **expanding an open source climate tool**
 
 - 🌱 I’m currently learning **react.js**
 
