@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖, I'm Ryan</h1>
-<h3 align="center">...climate | data | solutions | apps...</h3>
+<h3 align="center">...careerchange | climate | solutions | apps...</h3>
 
 <p align="left"> <a href="https://twitter.com/ryanfallard" target="blank"><img src="https://img.shields.io/twitter/follow/ryanfallard?logo=twitter&style=for-the-badge" alt="ryanfallard" /></a> 
 <a href="https://www.codewars.com/users/ryzeFullStack" target="blank"><img src="https://www.codewars.com/users/ryzeFullStack/badges/small" alt="ryanfallard" /></a> 
@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **A networking app** and on **expanding an open source climate tool**
+- 🔭 I’m currently working on series of **Career Change Tools**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently playing around **langchain and deepseek**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/ryfurness](https://github.com/ryfurness?tab=repositories)
 
